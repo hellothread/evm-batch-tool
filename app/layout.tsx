@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Web3批量操作工具",
+  title: "Web3批量操作工具 - By Thread",
   description: "一个功能强大的Web3批量交易和操作工具",
-    generator: 'v0.dev'
+  generator: 'THREAD'
 }
 
 export default function RootLayout({
